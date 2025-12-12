@@ -1,0 +1,26 @@
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_setup.py:_flush():81] Current SDK version is 0.22.0
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_setup.py:_flush():81] Configure stats pid to 2908
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_setup.py:_flush():81] Loading settings from /root/.config/wandb/settings
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_setup.py:_flush():81] Loading settings from /root/GRPO/wandb/settings
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_init.py:setup_run_log_directory():686] Logging user logs to /root/GRPO/wandb/run-20250930_102723-av1vxkcv/logs/debug.log
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to /root/GRPO/wandb/run-20250930_102723-av1vxkcv/logs/debug-internal.log
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_init.py:init():813] calling init triggers
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-09-30 10:27:23,463 INFO    MainThread:2908 [wandb_init.py:init():861] starting backend
+2025-09-30 10:27:23,671 INFO    MainThread:2908 [wandb_init.py:init():864] sending inform_init request
+2025-09-30 10:27:23,675 INFO    MainThread:2908 [wandb_init.py:init():872] backend started and connected
+2025-09-30 10:27:23,681 INFO    MainThread:2908 [wandb_init.py:init():942] updated telemetry
+2025-09-30 10:27:23,682 INFO    MainThread:2908 [wandb_init.py:init():966] communicating run to backend with 90.0 second timeout
+2025-09-30 10:27:25,189 INFO    MainThread:2908 [wandb_init.py:init():1017] starting run threads in backend
+2025-09-30 10:27:25,375 INFO    MainThread:2908 [wandb_run.py:_console_start():2506] atexit reg
+2025-09-30 10:27:25,376 INFO    MainThread:2908 [wandb_run.py:_redirect():2354] redirect: wrap_raw
+2025-09-30 10:27:25,376 INFO    MainThread:2908 [wandb_run.py:_redirect():2423] Wrapping output streams.
+2025-09-30 10:27:25,376 INFO    MainThread:2908 [wandb_run.py:_redirect():2446] Redirects installed.
+2025-09-30 10:27:25,380 INFO    MainThread:2908 [wandb_init.py:init():1057] run started, returning control to user process
+2025-09-30 11:32:33,153 INFO    MainThread:2908 [wandb_run.py:_finish():2272] finishing run shumengyang123-bit/GRPO-Qwen-1.5-Instruct-Multi-GPU/av1vxkcv
+2025-09-30 11:32:33,154 INFO    MainThread:2908 [wandb_run.py:_atexit_cleanup():2471] got exitcode: 0
+2025-09-30 11:32:33,155 INFO    MainThread:2908 [wandb_run.py:_restore():2453] restore
+2025-09-30 11:32:33,155 INFO    MainThread:2908 [wandb_run.py:_restore():2459] restore done
+2025-09-30 11:32:47,584 INFO    MainThread:2908 [wandb_run.py:_footer_sync_info():3867] logging synced files

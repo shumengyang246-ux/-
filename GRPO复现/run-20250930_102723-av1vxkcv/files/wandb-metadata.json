@@ -1,0 +1,43 @@
+{
+  "os":  "Linux-5.15.0-97-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2025-09-30T02:27:23.461126Z",
+  "program":  "/root/GRPO/GRPO-Qwen-1.5-Instruct-Multi-GPU.py",
+  "codePath":  "GRPO-Qwen-1.5-Instruct-Multi-GPU.py",
+  "codePathLocal":  "GRPO-Qwen-1.5-Instruct-Multi-GPU.py",
+  "email":  "shumengyang246@gmail.com",
+  "root":  "/root/GRPO",
+  "host":  "autodl-container-69e24a8e18-05e17fcf",
+  "executable":  "/root/miniconda3/bin/python",
+  "cpu_count":  64,
+  "cpu_count_logical":  128,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  2,
+  "disk":  {
+    "/":  {
+      "total":  "32212254720",
+      "used":  "17256443904"
+    }
+  },
+  "memory":  {
+    "total":  "1081820241920"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada",
+      "uuid":  "GPU-5a9b4223-4a58-5b32-be66-f59821444cd9"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada",
+      "uuid":  "GPU-d33e34ca-f608-4701-e0b8-5bf0b1671592"
+    }
+  ],
+  "cudaVersion":  "12.6",
+  "writerId":  "d550jiy11v1hemfkcb8gv72f1dbccdh2"
+}
