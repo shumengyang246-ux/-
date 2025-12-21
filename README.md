@@ -4,3 +4,6 @@
 
 # DAPO论文复现
 代码实际运行训练时间较长，大约5h
+
+# 包含主要强化学习算法的实现
+值迭代，策略迭代、MC-epsilon-greedy、Q-Learning、DQN、PPO、SAC、TD3等等
